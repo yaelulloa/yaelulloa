@@ -1,8 +1,7 @@
-# h1
-## h2
-### h3
-## h2
-# h1
+# Contact Information
+-Yael Ulloa
+- yaelulloa2@gmail.com
+- 516-234-4743
 - 👋 Hi, I’m @yaelulloa
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
