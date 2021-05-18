@@ -24,8 +24,8 @@
 
 ```Javascript
 function testt(){
-console.log("HELLO WORLD")
-{
+ console.log("HELLO WORLD");
+}
 ```
 <h1>HELLO WORLD</h1>
 
@@ -33,14 +33,13 @@ console.log("HELLO WORLD")
 - 👋 Hi, I’m _Yael Ulloa_
 - 🌍I'm bilingual _(English, and Spanish)_
 
-- 🌱 I’m currently training on [GitHub Course] (https://guides.github.com/features/mastering-markdown/)
+- 🌱 I’m currently training on [GitHub Course](https://guides.github.com/features/mastering-markdown/)
 
 
-- [x] this is a complete item
-- [ ] this is an incomplete item
-- [x] @mentions, #refs, [links](), 
-**formatting**, and <del>tags</del> 
-supported
+- [x] Avaliable 24/7
+
+
+
 - [x] list syntax required (any 
 unordered or ordered list 
 supported)
@@ -51,7 +50,7 @@ Motivation         | Goals
 work hard          | find a job
 by practicing hard | $$$$
 
-# _ connect with me via._
+# _connect with me via._
 www.facebook.com/yaelulloa
 
 
