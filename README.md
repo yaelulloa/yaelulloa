@@ -36,13 +36,6 @@ function testt(){
 - 🌱 I’m currently training on [GitHub Course](https://guides.github.com/features/mastering-markdown/)
 
 
-- [x] Avaliable 24/7
-
-
-
-- [x] list syntax required (any 
-unordered or ordered list 
-supported)
 
 
 Motivation         | Goals
