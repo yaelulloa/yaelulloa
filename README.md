@@ -38,13 +38,8 @@ function testt(){
 
 
 
-Motivation         | Goals
-------------       | -------------
-work hard          | find a job
-by practicing hard | $$$$
 
-# _connect with me via._
-www.facebook.com/yaelulloa
+
 
 
 
